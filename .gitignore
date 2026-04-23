@@ -1,0 +1,19 @@
+# Environment files
+.env
+
+# Dependencies (MOST IMPORTANT!)
+node_modules/
+
+# Build outputs
+dist/
+build/
+.next/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
